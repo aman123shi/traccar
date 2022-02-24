@@ -1,5 +1,5 @@
+//Testing Mail Notification
 package org.traccar.notification;
-
 import org.junit.Ignore;
 import org.junit.Test;
 
